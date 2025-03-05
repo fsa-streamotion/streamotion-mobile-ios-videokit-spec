@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let FSVideoKitVersion = "2.0.4"
-let FSVideoKitChecksum = "7097e8e7167ba4da6b38e730719c2880c1b390b44fc74131ee7029e291d45b96"
+let FSVideoKitVersion = "2.0.5"
+let FSVideoKitChecksum = "75ce41515a0a6d9d3b9501422614623e133381b9b6eeb75047b60df9c3a11c38"
 
 let package = Package(
     name: "FSVideoKit",
