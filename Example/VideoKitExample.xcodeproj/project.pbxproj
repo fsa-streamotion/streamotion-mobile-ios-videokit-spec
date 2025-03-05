@@ -371,7 +371,7 @@
 			repositoryURL = "git@github.com:fsa-streamotion/streamotion-mobile-ios-videokit-spec.git";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 2.0.4;
+				minimumVersion = 2.0.5;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
